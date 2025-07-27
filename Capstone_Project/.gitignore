@@ -1,0 +1,8 @@
+# Ignore build artifacts
+*.o
+*.exe
+matrix_mul
+
+# Ignore data and results
+/data/
+/results/ 
